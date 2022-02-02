@@ -1,4 +1,4 @@
-<img src="/report/project2.png" alt="ncnc_preview" width="100%">
+<img src="/img/project2.png" alt="ncnc_preview" width="100%">
 
 ## 안드로이드 어플리케이션 "세차새차"
 
